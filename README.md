@@ -22,7 +22,7 @@ O programa inicia solicitando os dados do primeiro produto. Em seguida, exibe um
    ```bash
    javac Produto.java Main.java
    ```
-   3. Execute a aplicação:
+3. Execute a aplicação:
    ```bash
    java Main
    
